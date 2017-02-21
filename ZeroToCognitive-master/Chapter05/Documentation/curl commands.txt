@@ -1,0 +1,9 @@
+Natural Language Classifier-vc
+
+"url": "https://gateway.watsonplatform.net/natural-language-classifier/api",
+  "password": "gPPJzoCm42Be",
+  "username": "9cba3ca1-b359-4883-8248-ca48ec190244"
+
+C:\github\src\curl -u "9cba3ca1-b359-4883-8248-ca48ec190244":"gPPJzoCm42Be" -F training_data=@industry.csv -F training_metadata="{\"language\":\"en\",\"name\":\"Industry2016\"}" "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers"
+
+C:\github\src\curl -u "9cba3ca1-b359-4883-8248-ca48ec190244":"gPPJzoCm42Be" "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/f5bbbbx174-nlc-4617"
