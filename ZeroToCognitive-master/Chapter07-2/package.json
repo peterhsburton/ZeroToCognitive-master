@@ -28,6 +28,5 @@
   },
   "repository": {},
   "engines": {
-    "node": "4.2.x"
   }
 }
