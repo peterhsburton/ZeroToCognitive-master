@@ -10,10 +10,10 @@ applications:
     - Speech to Text-xx
     - Text to Speech-xx
     - Natural Language Classifier-xx
-    - Cloudant NoSQL DB-xx
+    - Cloudant NoSQL DB-xk
     - AlchemyAPI-xx
     - Retrieve and Rank-xx
-    - Conversation-xx
+    - Conversation-1i
     - Visual Recognition-xx
     - Streaming Analytics-xx
     - Secure Gateway-xx

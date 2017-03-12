@@ -4,12 +4,12 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: Z2C
-  host: Z2C
+  host: Z2Cpeterb
   disk_quota: 1024M
   services:
-    - Speech to Text-xx
-    - Text to Speech-xx
-    - Natural Language Classifier-xx
-    - Cloudant NoSQL DB-xx
-    - AlchemyAPI-xx
-    - Visual Recognition-xx
+    - Speech to Text-iq
+    - Text to Speech-3z
+    - Natural Language Classifier-vc
+    - Cloudant NoSQL DB-xk
+    - AlchemyAPI-pv
+    - Visual Recognition-5x
